@@ -1,0 +1,35 @@
+.hangman img {
+    width: 15rem;
+    height: 20rem;
+}
+
+.words {
+    margin-top: 2rem;
+}
+
+.guessWord {
+    display: inline-block;
+    margin: 5px;
+}
+
+.createBtns {
+    display: block;
+    margin: auto;
+    width: 335px;
+}
+
+.createBtns button {
+    margin: 5px;
+    font-size: 22px;
+    width: 30px;
+}
+
+.restart {
+    background: #e6a6eba1;
+    font-size: 20px;
+    padding: 6px;
+    width: 10rem;
+    margin-top: 2rem;
+    border-radius: 20px;
+    cursor: pointer;
+}
